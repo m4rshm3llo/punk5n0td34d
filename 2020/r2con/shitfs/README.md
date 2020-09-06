@@ -3,7 +3,7 @@ Cutter, WinHex</br>
 ![Image of hello](pics/pic1.jpg)
 # Дано
 Исполняемый файл shit-fs и двоичный файл flag.sfs</br>
-Смотрим на файла shit-fs:
+Смотрим на файла shit-fs:</br>
 ![Image of hello](pics/pic2.jpg)</br>
 Распаковываем с помощью UPX.</br>
 В начале программы есть “usage”:</br>
