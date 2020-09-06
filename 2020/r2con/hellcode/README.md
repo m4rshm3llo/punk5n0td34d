@@ -24,7 +24,7 @@ We use the foolowing python script:</br>
 ![Image of hello](pics/pic6.jpg)</br>
 But something went wrong. We got our runtime error.
 ![Image of hello](pics/pic7.jpg)</br>
-From the error, we see that we could not find the sub operation in binary4 but we received part of the message "Rose". Let's see what has changed in binary4:
+From the error, we see that we could not find the sub operation in binary4 but we received part of the message "Rose". Let's see what has changed in binary4:</br>
 ![Image of hello](pics/pic8.jpg)</br>
 The xor operation is used instead of the sub operation. Add the xor operation to the script and check it again:
 ![Image of hello](pics/pic9.jpg)</br>
