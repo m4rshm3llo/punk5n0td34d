@@ -41,8 +41,7 @@ from time import time
 p = remote('chals.damctf.xyz', 30318)
 p.recvuntil('Password guessing Trial 1\n')
 
-t0 = time()
-
+t0  = time()
 ppp = ''
 
 for i in range(16):
