@@ -4,11 +4,11 @@ A python script thas is a guessing game. We have to guess the password by game d
 Now let's see the script:</br>
 ```python
 def init_password():
-    global password
-    global sample_password
-    # seems super secure, right?
-    password = "%08x" % secrets.randbits(32)
-    sample_password = "%08x" % secrets.randbits(32)
+  global password
+  global sample_password
+  # seems super secure, right?
+  password = "%08x" % secrets.randbits(32)
+  sample_password = "%08x" % secrets.randbits(32)
 ```
 In the code above, we see the generation of password. The password is 8 byte hex number.</br>
 Okey, next intresting code is a guessing function:</br>
