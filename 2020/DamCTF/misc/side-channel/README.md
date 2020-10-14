@@ -1,6 +1,6 @@
 # What do we have on the task?
 
-A python script thas is a guessing game. We have to guess the password by game design. How do we do it?</br>
+A python script that is a guessing game. We have to guess the password by game design. How do we do it?</br>
 Now let's see the script:</br>
 ```python
 def init_password():
